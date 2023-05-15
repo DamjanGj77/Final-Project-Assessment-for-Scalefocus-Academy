@@ -44,4 +44,15 @@ Step 3. Jenkins pipeline that checks if wp namespace exists, if it doesn’t the
                  }
                }
              }
+             
+      
+Step 4. Deploying the helm chart using the jenkins pipeline
+![image](https://github.com/DamjanGj77/Final-Project-Assessment-for-Scalefocus-Academy/assets/125911118/46dabaf5-6664-4102-bf86-1bcaddb63547)
+
+![image](https://github.com/DamjanGj77/Final-Project-Assessment-for-Scalefocus-Academy/assets/125911118/91db75d1-1057-4a22-99c9-d703d9d252fd)
+
+![image](https://github.com/DamjanGj77/Final-Project-Assessment-for-Scalefocus-Academy/assets/125911118/d1757eec-19fd-406e-8f1b-0fbebb28a1d3)
+
+
+
             
