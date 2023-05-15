@@ -53,6 +53,19 @@ Step 4. Deploying the helm chart using the jenkins pipeline
 
 ![image](https://github.com/DamjanGj77/Final-Project-Assessment-for-Scalefocus-Academy/assets/125911118/d1757eec-19fd-406e-8f1b-0fbebb28a1d3)
 
+Step 5. For loading the home page we need to execute the following command **kubectl port-forward --namespace wp svc/final-project-wp-scalefocus-wordpress 80:80**
+![image](https://github.com/DamjanGj77/Final-Project-Assessment-for-Scalefocus-Academy/assets/125911118/d5e5fc03-7a52-4c56-9f20-925e6b9e1bc2)
 
+![image](https://github.com/DamjanGj77/Final-Project-Assessment-for-Scalefocus-Academy/assets/125911118/62bae536-de2c-45fd-93ed-a7b65a6b863c)
+
+-wp-login
+![image](https://github.com/DamjanGj77/Final-Project-Assessment-for-Scalefocus-Academy/assets/125911118/665df7e5-6f56-4b63-86f0-a45bf492dee6)
+
+-wp admin
+![image](https://github.com/DamjanGj77/Final-Project-Assessment-for-Scalefocus-Academy/assets/125911118/700c760b-39f4-4740-b53c-8c4a52f1ce4b)
+
+
+
+HOPE YOU WILL LIKE MY PROJECT :))))
 
             
