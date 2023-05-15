@@ -70,6 +70,6 @@ Step 5. For loading the home page we need to execute the following command **kub
 
 
 
-HOPE YOU WILL LIKE MY PROJECT :))))
+HOPE YOU WILL LIKE MY PROJECT :)))
 
             
