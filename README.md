@@ -1,6 +1,7 @@
 # Final-Project-Assessment-for-Scalefocus-Academy
 
 Requirement for the Project Assessment
+
 Deploy a WordPress on Kubernetes (using Minicube) with Helm and automation with Jenkins.
 
 Step 1. Helm chart was downloaded and cloned on path Users\Damjan.Gjorgievski\Documents\final_project_scalefocus\charts\bitnami\wordpress
